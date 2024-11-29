@@ -51,3 +51,4 @@ pnpm-debug.log
 # Ignore Next.js build output
 .next/
 *.har
+/output/*.xlsx
